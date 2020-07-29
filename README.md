@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-For-Salay-Estimatore
+# Exploratory-Data-Analysis-For-Salary-Estimatore
